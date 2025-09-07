@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there 👋, I'm Shariar Ahamed</h1>
 <h3 align="center">🚀 Passionate about Web Development | Creative Thinker | Tech Enthusiast from Dhaka, Bangladesh</h3>
 
@@ -111,7 +110,6 @@ I’m a curious explorer of code & design. I love:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shariar-Ahamed&bg_color=e3e3e3&color=000000&line=0cc048&point=345544&area=true&hide_border=true" width="800" alt="Activity Graph"/>
 </p>
 
-
 ---
 
 ## 🌐 Connect with Me
@@ -125,7 +123,7 @@ I’m a curious explorer of code & design. I love:
 
 ---
 
-## 🏆 GitHub Achievements
+<!---## 🏆 GitHub Achievements
 
 <p align="center">
   <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
@@ -133,5 +131,4 @@ I’m a curious explorer of code & design. I love:
   <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
   <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
   <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
-</p>
-
+</p>--->
