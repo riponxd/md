@@ -1,3 +1,5 @@
+![Summary Cards Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shariar-ahamed&theme=dracula)
+
 <h1 align="center">Hi there 👋, I'm Shariar Ahamed</h1>
 <h3 align="center">🚀 Passionate about Web Development | Creative Thinker | Tech Enthusiast from Dhaka, Bangladesh</h3>
 
