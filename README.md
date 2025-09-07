@@ -99,17 +99,17 @@ I’m a curious explorer of code & design. I love:
 
 <!-- GitHub Stats -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shariar-Ahamed&show_icons=true&count_private=true&theme=tokyonight" width="400" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shariar-Ahamed&show_icons=true&count_private=true&theme=tokyonight" width="600" alt="GitHub Stats"/>
 </p>
 
 <!-- Summary Cards (optional, might not render inline) -->
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shariar-ahamed&theme=dracula" width="400" alt="Summary Cards"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shariar-ahamed&theme=dracula" width="800" alt="Summary Cards"/>
 </p>
 
 <!-- Activity Graph -->
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shariar-Ahamed&bg_color=e3e3e3&color=000000&line=0cc048&point=345544&area=true&hide_border=true" width="400" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shariar-Ahamed&bg_color=e3e3e3&color=000000&line=0cc048&point=345544&area=true&hide_border=true" width="1000" alt="Activity Graph"/>
 </p>
 
 
