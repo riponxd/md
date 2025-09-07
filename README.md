@@ -91,7 +91,7 @@ I’m a curious explorer of code & design. I love:
 ---
 
 ## 📈 GitHub Stats & Activity
-
+![Summary Cards Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shariar-ahamed&theme=dracula)
 <!----p align="center"--->
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shariar-Ahamed&layout=compact&theme=tokyonight" alt="Top Langs"/>
